@@ -104,3 +104,19 @@
 | Medium     | Unique Binary Search Trees                              | 21.0          | 62.45%          | Math, DP, Tree, BST, Binary Tree                  | [Link](https://leetcode.com/problems/unique-binary-search-trees)                              |
 | Hard       | N-Queens II                                             | 21.0          | 76.73%          | Backtracking                                      | [Link](https://leetcode.com/problems/n-queens-ii)                                             |
 | Medium     | Unique Binary Search Trees II                           | 13.2          | 60.40%          | DP, Backtracking, Tree, BST, Binary Tree          | [Link](https://leetcode.com/problems/unique-binary-search-trees-ii)                           |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics End-->
