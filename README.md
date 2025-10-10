@@ -122,13 +122,27 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
