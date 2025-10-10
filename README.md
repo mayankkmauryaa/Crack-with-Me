@@ -104,3 +104,19 @@
 | Medium     | Unique Binary Search Trees                              | 21.0          | 62.45%          | Math, DP, Tree, BST, Binary Tree                  | [Try Now](https://leetcode.com/problems/unique-binary-search-trees)                              |
 | Hard       | N-Queens II                                             | 21.0          | 76.73%          | Backtracking                                      | [Try Now](https://leetcode.com/problems/n-queens-ii)                                             |
 | Medium     | Unique Binary Search Trees II                           | 13.2          | 60.40%          | DP, Backtracking, Tree, BST, Binary Tree          | [Try Now](https://leetcode.com/problems/unique-binary-search-trees-ii)                           |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
+<!---LeetCode Topics End-->
