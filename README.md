@@ -2,7 +2,7 @@
 
 ## MS most asked questions
 
-| Difficulty | Title                                                   | Frequency (%) | Acceptance Rate | Topics                                            | Try Now                                                                                          |
+| Difficulty | Title                                                   | Frequency (%) | Acceptance Rate | Topics                                            | Try Now --- |
 | ---------- | ------------------------------------------------------- | ------------- | --------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Easy       | Two Sum                                                 | 100.0         | 55.78%          | Array, Hash Table                                 | [Try Now](https://leetcode.com/problems/two-sum)                                                 |
 | Easy       | Merge Sorted Array                                      | 83.7          | 52.92%          | Array, Two Pointers, Sorting                      | [Try Now](https://leetcode.com/problems/merge-sorted-array)                                      |
