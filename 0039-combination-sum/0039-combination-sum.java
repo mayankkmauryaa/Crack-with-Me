@@ -2,7 +2,7 @@ class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> ans = new ArrayList<>();
         // int n = candidates.length;
-        Arrays.sort(candidates);
+        // Arrays.sort(candidates);
         List<Integer> list = new ArrayList<>();
         backtrack(ans, list, candidates, 0, target);
         return ans;
