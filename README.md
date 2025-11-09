@@ -115,6 +115,7 @@
 | [0040-combination-sum-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0128-longest-consecutive-sequence) |
 | [0907-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 | [0039-combination-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
