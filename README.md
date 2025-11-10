@@ -113,6 +113,7 @@
 | [0001-two-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0128-longest-consecutive-sequence) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
 ## Union Find
 |  |
