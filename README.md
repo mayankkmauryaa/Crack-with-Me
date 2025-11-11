@@ -117,6 +117,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [0907-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-koko-eating-bananas) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
@@ -183,10 +186,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
