@@ -125,6 +125,7 @@
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -142,6 +143,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0200-number-of-islands](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
