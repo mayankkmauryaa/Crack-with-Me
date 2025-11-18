@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public int minDifference(int[] nums) {
         int n = nums.length;
         if (n <= 4) return 0;
@@ -17,3 +17,27 @@ class Solution {
 // 2. Change 2 largest numbers and 1 smallest number
 // 3. Change 1 largest number and 2 smallest numbers
 // 4. Change the 3 smallest numbers
+
+
+
+// this is for k moves
+class Solution {
+    public int minDifference(int[] nums) {
+        int k = 3;
+        int n = nums.length;
+        if (n <= k + 1) return 0;
+        Arrays.sort(nums);
+        int minDiff = Integer.MAX_VALUE;
+
+        for (int i = 0; i <= k; i++) {
+            // k - i = number of largest elements you change.
+            int change = k-i;
+            int largest = nums[n-1 - change];
+            int smallest = nums[i];
+            int diff = largest - smallest;
+            minDiff = Math.min(minDiff, diff);
+        }
+
+        return minDiff;
+    }
+}
