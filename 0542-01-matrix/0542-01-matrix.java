@@ -3,13 +3,13 @@ class Solution {
         int n = mat.length;
         int m = mat[0].length;
         boolean vis[][] = new boolean[n][m];
-        int dist[][] = new int[n][m];
+        // int dist[][] = new int[n][m];
         Queue<int[]> q = new LinkedList<>();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (mat[i][j] == 0) {
                     q.add(new int[] { i, j });
-                    dist[i][j] = 0;
+                    // dist[i][j] = 0;
                     vis[i][j] = true;
                 }
             }
@@ -26,7 +26,8 @@ class Solution {
                         if (ni >= 0 && ni < n && nj >= 0 && nj < m) {
                             if (!vis[ni][nj]) {
                                 vis[ni][nj] = true;
-                                dist[ni][nj] = 1 + dist[idxi][idxj];
+                                // dist[ni][nj] = 1 + dist[idxi][idxj];
+                                mat[ni][nj] = 1 + mat[idxi][idxj];
                                 q.add(new int[] { ni, nj });
                             }
                         }
@@ -34,6 +35,6 @@ class Solution {
                 }
             }
         }
-        return dist;
+        return mat; // data changes here if not wanted to change data use another matrix
     }
 }
