@@ -133,6 +133,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
 | [1876-map-of-highest-peak](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1876-map-of-highest-peak) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
@@ -164,6 +165,7 @@
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0657-robot-return-to-origin) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1675-magnetic-force-between-two-balls) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Depth-First Search
 |  |
