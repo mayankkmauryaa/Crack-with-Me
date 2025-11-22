@@ -1,4 +1,4 @@
-class Solution1 {
+class Solution {
     public int[][] updateMatrix(int[][] mat) {
         int n = mat.length;
         int m = mat[0].length;
@@ -39,7 +39,7 @@ class Solution1 {
     }
 }
 
-class Solution {
+class Solution1 {
     public int[][] updateMatrix(int[][] mat) {
         int n = mat.length;
         int m = mat[0].length;
