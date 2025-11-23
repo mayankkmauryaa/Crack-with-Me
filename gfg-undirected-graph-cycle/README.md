@@ -20,7 +20,9 @@ Return `true` if the graph contains **at least one cycle**, otherwise return `fa
 
 ### Example 1
 
-![Graph with a cycle](https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891735/Web/Other/blobid1_1743510240.jpg)
+<!-- ![Graph with a cycle](https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891735/Web/Other/blobid1_1743510240.jpg) -->
+
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891735/Web/Other/blobid1_1743510240.jpg" width="350" />
 
 ```
 Input: V = 4, E = 4
@@ -33,7 +35,9 @@ Explanation: 1 → 2 → 0 → 1 forms a cycle.
 
 ### Example 2
 
-![Graph without a cycle](https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891735/Web/Other/blobid2_1743510254.jpg)
+<!-- ![Graph without a cycle](https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891735/Web/Other/blobid2_1743510254.jpg) -->
+
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/891735/Web/Other/blobid2_1743510254.jpg" width="350" />
 
 ```
 Input: V = 4, E = 3
