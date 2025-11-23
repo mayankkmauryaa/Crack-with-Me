@@ -49,8 +49,7 @@ edges = [[0,3],[1,2],[3,2],[0,2]]
 Output: false
 
 Explanation: Graph contains an odd-length cycle (triangle), cannot be colored using 2 colors.
-
-````
+```
 
 ---
 
@@ -61,7 +60,7 @@ Explanation: Graph contains an odd-length cycle (triangle), cannot be colored us
 1 ≤ edges.size() ≤ 10^5
 0 ≤ edges[i][j] < V
 Graph is undirected
-````
+```
 
 ---
 
@@ -88,6 +87,8 @@ Graph is undirected
 ---
 
 ## 💻 Java Implementation
+
+- ## BFS
 
 ```java
 /*
@@ -158,14 +159,65 @@ class Solution {
 }
 ```
 
+- ## DFS
+
+```java
+/*
+    any linear graph can be coloured
+
+    Graph with an even cycle → still could be bipartite
+    Graph with an odd cycle  → definitely not bipartite
+*/
+
+class Solution {
+    public boolean isBipartite(int V, int[][] edges) {
+
+        int color[] = new int[V];
+        Arrays.fill(color, -1);
+
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < V; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        for (int edge[] : edges) {
+            int v1 = edge[0];
+            int v2 = edge[1];
+            adj.get(v1).add(v2);
+            adj.get(v2).add(v1);
+        }
+
+        for (int i = 0; i < V; i++) {
+            if (color[i] == -1) {
+                if (!dfscheck(i,0, color, adj)) return false;
+            }
+        }
+
+        return true;
+    }
+
+    public boolean dfscheck(int node,int col, int[] color, ArrayList<ArrayList<Integer>> adj) {
+        color[node] = col;
+        for(int next: adj.get(node)){
+            if(color[next]==-1){
+                if(!dfscheck(next, 1-col, color, adj)) return false;
+            }
+            else if(color[next]==col) return false;
+        }
+        return true;
+    }
+}
+
+```
+
 ---
 
 ## 🧩 Time & Space Complexity
 
 | Complexity                    | Description                    |
 | ----------------------------- | ------------------------------ |
-| **Time Complexity:** O(V + E) | BFS + adjacency list traversal |
-| **Auxiliary Space:** O(V)     | Color array + BFS queue        |
+| **Time Complexity:** O(V + E) | BFS / DFS + adjacency list traversal |
+| **Auxiliary Space:** O(V)     | Color array + BFS queue / recursion stack        |
 
 ---
 
