@@ -128,6 +128,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0994-rotting-oranges) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1036-rotting-oranges) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0090-subsets-ii) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
 | ------- |
