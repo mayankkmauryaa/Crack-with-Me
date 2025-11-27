@@ -127,6 +127,7 @@
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
+| [0875-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -150,6 +151,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
+| [0875-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
