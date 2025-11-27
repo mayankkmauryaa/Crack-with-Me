@@ -5,7 +5,8 @@ class Solution {
         for (int i = 0; i < len; i++) {
             totalSum += nums[i];
         }
-        if (totalSum == x) return len;
+        if (totalSum == x)
+            return len;
         totalSum = totalSum - x;
         int left = 0;
         int right = 0;
@@ -17,7 +18,8 @@ class Solution {
                 sum -= nums[left];
                 left++;
             }
-            if (sum == totalSum) window = Math.max(window, right - left + 1);
+            if (sum == totalSum)
+                window = Math.max(window, right - left + 1);
             right++;
         }
         return window == 0 ? -1 : len - window;
