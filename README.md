@@ -200,6 +200,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
@@ -230,6 +231,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0046-permutations) |
@@ -302,6 +304,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
