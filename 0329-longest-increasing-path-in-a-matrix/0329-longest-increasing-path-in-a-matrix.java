@@ -49,42 +49,42 @@ class Solution {
         dp[r][c] = max;
         return max;
     }
+
+    // TLE : O(m * n * (m * n)) = O((150*10)^2) ~= O(2.25 million^2) ~ 5e12 operations
+
+    private int bfs(int[][] mat, int row, int col) {
+        int max = 0;
+        int m = mat.length;
+        int n = mat[0].length;
+
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[] { row, col });
+
+        while (!q.isEmpty()) {
+            int size = q.size();
+
+            max++;
+            for (int s = 0; s < size; s++) {
+                int curr[] = q.poll();
+
+                for (int r = -1; r <= 1; r++) {
+                    for (int c = -1; c <= 1; c++) {
+                        if (Math.abs(r + c) == 1) {
+
+                            int nr = curr[0] + r;
+                            int nc = curr[1] + c;
+
+                            if (nr < 0 || nr >= m || nc < 0 || nc >= n)
+                                continue;
+                            if (mat[nr][nc] <= mat[curr[0]][curr[1]])
+                                continue;
+
+                            q.add(new int[] { nr, nc });
+                        }
+                    }
+                }
+            }
+        }
+        return max;
+    }
 }
-
-// TLE : O(m * n * (m * n)) = O((150*10)^2) ~= O(2.25 million^2) ~ 5e12 operations
-
-//     private int bfs(int[][] mat, int row, int col) {
-//         int max = 0;
-//         int m = mat.length;
-//         int n = mat[0].length;
-
-//         Queue<int[]> q = new LinkedList<>();
-//         q.add(new int[] { row, col });
-
-//         while (!q.isEmpty()) {
-//             int size = q.size();
-
-//             max++;
-//             for (int s = 0; s < size; s++) {
-//                 int curr[] = q.poll();
-
-//                 for (int r = -1; r <= 1; r++) {
-//                     for (int c = -1; c <= 1; c++) {
-//                         if (Math.abs(r + c) == 1) {
-
-//                             int nr = curr[0] + r;
-//                             int nc = curr[1] + c;
-
-//                             if (nr < 0 || nr >= m || nc < 0 || nc >= n)
-//                                 continue;
-//                             if (mat[nr][nc] <= mat[curr[0]][curr[1]])
-//                                 continue;
-
-//                             q.add(new int[] { nr, nc });
-//                         }
-//                     }
-//                 }
-//             }
-//         }
-//         return max;
-//     }
