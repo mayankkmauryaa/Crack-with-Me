@@ -195,6 +195,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
