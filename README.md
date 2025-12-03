@@ -199,6 +199,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1013-fibonacci-number) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
