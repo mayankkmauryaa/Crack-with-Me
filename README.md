@@ -214,6 +214,7 @@
 | [0022-generate-parentheses](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0583-delete-operation-for-two-strings) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2497-maximum-matching-of-players-with-trainers) |
