@@ -224,6 +224,7 @@
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [3207-make-three-strings-equal](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3207-make-three-strings-equal) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Bit Manipulation
@@ -238,6 +239,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0657-robot-return-to-origin) |
+| [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Backtracking
 |  |
@@ -385,4 +387,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
