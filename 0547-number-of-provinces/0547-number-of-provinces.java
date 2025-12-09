@@ -1,6 +1,8 @@
 class Solution {
+    private int n;
+
     public int findCircleNum(int[][] isConnected) {
-        int n = isConnected.length;
+        n = isConnected.length;
         boolean[] vis = new boolean[n];
         int count = 0;
         for (int i = 0; i < n; i++) {
@@ -12,9 +14,8 @@ class Solution {
         return count;
     }
 
-    private void dfs(int idx, int[][] mat, boolean[] vis) {
+    public void dfs(int idx, int[][] mat, boolean[] vis) {
         vis[idx] = true;
-        int n = mat.length;
         for (int i = 0; i < n; i++) {
             if (!vis[i] && mat[idx][i] == 1) {
                 dfs(i, mat, vis);
