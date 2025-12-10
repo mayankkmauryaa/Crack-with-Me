@@ -1,28 +1,27 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int fresh = 0;
+        int m = grid.length;
+        int n = grid[0].length;
 
         Queue<int[]> q = new LinkedList<>();
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 2) {
+        int fresh = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 2)
                     q.add(new int[] { i, j });
-                } else if (grid[i][j] == 1) {
+                else if (grid[i][j] == 1)
                     fresh++;
-                }
             }
         }
+
         if (fresh == 0)
             return 0;
 
-        // int time = -1; // one has already rotten up   // case 1
-        int time = 0; // case 2
+        int time = 0;
         while (!q.isEmpty()) {
             int size = (q.size());
-            boolean rottenNOW = false; // case 2
-            // time++;  // case 1
+            boolean rottenNOW = false;
 
             for (int s = 0; s < size; s++) {
                 int[] next = q.poll();
@@ -34,19 +33,20 @@ class Solution {
                         if (Math.abs(i + j) == 1) {
                             int nr = row + i;
                             int nc = col + j;
-                            if (nr >= 0 && nr < n && nc >= 0 && nc < m) {
+                            if (nr >= 0 && nr < m && nc >= 0 && nc < n) {
                                 if (grid[nr][nc] == 1) {
                                     grid[nr][nc] = 2;
                                     fresh--;
                                     q.add(new int[] { nr, nc });
-                                    rottenNOW = true; // case 2
+                                    rottenNOW = true;
                                 }
                             }
                         }
                     }
                 }
             }
-            if (rottenNOW) time++; // case 2
+            if (rottenNOW)
+                time++;
         }
         return fresh == 0 ? time : -1;
     }
