@@ -153,6 +153,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [1925-count-square-sum-triples](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## String
 |  |
 | ------- |
@@ -394,6 +396,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -402,4 +405,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1925-count-square-sum-triples) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
