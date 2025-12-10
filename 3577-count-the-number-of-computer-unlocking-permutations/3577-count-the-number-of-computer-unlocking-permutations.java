@@ -1,6 +1,6 @@
 class Solution {
     public int countPermutations(int[] complexity) {
-        int mod = 1000000007;
+        int mod = 1_000_000_000 + 7;
         long ans = 1;
         int n = complexity.length;
         for (int i = 1; i < n; i++) {
