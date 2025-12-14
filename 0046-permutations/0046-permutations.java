@@ -1,18 +1,19 @@
 class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
+
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        compute(nums, ans, new ArrayList<>());
+        compute(nums, new ArrayList<>());
         return ans;
     }
 
-    static void compute(int nums[], List<List<Integer>> ans, List<Integer> list) {
+    public void compute(int nums[], List<Integer> list) {
         if (list.size() == nums.length)
             ans.add(new ArrayList<>(list));
         for (int num : nums) {
             if (list.contains(num))
                 continue;
             list.add(num);
-            compute(nums, ans, list);
+            compute(nums, list);
             list.remove(list.size() - 1);
         }
     }
