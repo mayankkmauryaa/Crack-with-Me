@@ -137,6 +137,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-koko-eating-bananas) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -242,6 +243,7 @@
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0944-delete-columns-to-make-sorted) |
 | [1250-longest-common-subsequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/2186-count-vowel-substrings-of-a-string) |
