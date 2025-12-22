@@ -115,6 +115,7 @@
 | [0039-combination-sum](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0130-surrounded-regions) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0067-add-binary) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
