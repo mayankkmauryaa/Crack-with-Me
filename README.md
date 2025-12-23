@@ -134,6 +134,7 @@
 | [0455-assign-cookies](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0455-assign-cookies) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
@@ -209,6 +210,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -412,6 +414,7 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/3432-count-partitions-with-even-sum-difference) |
