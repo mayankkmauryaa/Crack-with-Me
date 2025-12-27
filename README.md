@@ -140,6 +140,7 @@
 | [0542-01-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0733-flood-fill) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0875-koko-eating-bananas) |
@@ -178,6 +179,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0528-random-pick-with-weight](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0528-random-pick-with-weight) |
+| [0704-binary-search](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0704-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0808-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/mayankkmauryaa/Crack-with-Me/tree/master/0907-koko-eating-bananas) |
